@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏗️ System Design Interview Prep
+# 🏗️ System Design and Architecture (entry-level questions)
 
 **30 questions on designing a Learning Management System (LMS) for 500 students based on a assignment I have completed and cleared all the topics with proper methodologies and theories**
 
