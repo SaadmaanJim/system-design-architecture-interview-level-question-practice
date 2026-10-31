@@ -53,8 +53,7 @@
 
 <div align="center">
 
-- ![View Answers](https://img.shields.io/badge/📄_View_Answers-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
-- https://docs.google.com/document/d/1PuzuVAaj4MtsurYwRleuwEWWvnYaHUo20ZAALBWr4zk/edit?usp=drive_link
+[![View Answers](https://img.shields.io/badge/View_Answers-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1PuzuVAaj4MtsurYwRleuwEWWvnYaHUo20ZAALBWr4zk/edit?usp=drive_link)
 
 </div>
 
@@ -63,7 +62,7 @@
 <div align="center">
 
 **Author:** Sadman Islam Jim · CSE, American International University-Bangladesh
-- **Focus:** SDET & System Architecture
 
+**Focus:** SDET & System Architecture
 
 </div>
